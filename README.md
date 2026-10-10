@@ -7,8 +7,6 @@ Laporan dapat dilihat pada [IndustrialGradeProject](https://docs.google.com/docu
 Expert Advisor (EA) trend-following breakout multi-aset untuk MetaTrader 5.
 Proyek ini dikerjakan oleh Ananda Auliya Rahma (24/533691/PA/22608), Departemen Ilmu Komputer dan Elektronika, FMIPA, Universitas Gadjah Mada, 2026.
 
-> **Status: pengembangan awal.** Hanya JP225 yang dioptimasi. Backtest sudah ada untuk 7 dari 10 instrumen (2 tahun; ETHUSD 9 bulan), semuanya positif tetapi jauh di bawah target. Backtest 7 tahun belum dijalankan, dan US30, USOIL, UKOIL belum diuji.
-
 ---
 
 ## Ringkasan
